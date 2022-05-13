@@ -24,6 +24,7 @@ In this work we have used publicly available simulated payment transaction data 
 ### Data analysis
 ### Data Cleaning
 ### Exploratory Data Analysis
+
   <img src="Images/bar_amount_by_type_of_transaction.jpeg" width="420" height="250">
   <img src="Images/bar_isfraud_by_type.jpeg" width="420" height="250">
   <img src="Images/pie_chart_count_of_type_by_type.jpeg" width="420" height="250">
