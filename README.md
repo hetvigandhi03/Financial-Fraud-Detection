@@ -20,8 +20,7 @@ In this work we have used publicly available simulated payment transaction data 
 
 ## Data Description
 - The dataset has over 6 million transactions and 11 variables
-- There is a variable named ‘isFraud’ that indicates actual fraud status of the transaction
-- This is the class variable for our analysis
+- There is a variable named ‘isFraud’ that indicates actual fraud status of the transaction, this is the class variable for our analysis
 
 The columns in the dataset are described as follows: 
 
