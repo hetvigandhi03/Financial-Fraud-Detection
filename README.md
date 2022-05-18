@@ -88,5 +88,5 @@ The columns in the dataset are described as follows:
 
 ## Conclusion
 
-  <img src="Images/performance.jpeg" width="550" height="350">
+  <img src="Images/Accuracy.png" width="550" height="350">
 According to the bar graph shown, we can conclude that Random forest regression seems to produce excellent results. The performance of the Random forest regression is consistent between the training and testing datasets, so there is no overfitting
