@@ -1,0 +1,35 @@
+body {
+    background-color: #f0e4fa;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    padding: 30px;
+    border-color: rgba(37, 4, 45, 0.427);
+}
+
+.navbar {
+    background-color: #e2d5f9;
+    text-align: right;
+    padding: 14px 16px;
+    display: block;
+    border-style: groove;
+    border-radius: 10px;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px red;
+    
+}
+
+a {
+    color: #0a0a0a;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px rgb(230, 214, 242);
+   
+
+}
+
+a:hover {
+    color: #757575;
+    text-decoration-line: none;
+    text-shadow: 2px 2px 5px rgb(230, 214, 242);
+  }
