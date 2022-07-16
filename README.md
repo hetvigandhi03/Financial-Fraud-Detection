@@ -67,6 +67,10 @@ The columns in the dataset are described as follows:
     - Naive Bayes
     - Logistic Regression
 
+## Deployment
+- After training our model, we created a Flask app and a front-end
+- The model was then hosted on localhost via an API
+- After successful testing of the web app, we then used Docker to dockerize the application which was then hosted on Heroku
 
 ## Data Visualization
 
